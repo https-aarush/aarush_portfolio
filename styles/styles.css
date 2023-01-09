@@ -7,7 +7,7 @@
 
 :root {
   --color-primary: #191d2b;
-  --color-secondary: #27AE60;
+  --color-secondary: #0b58d3;
   --color-white: #FFFFFF;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -23,7 +23,7 @@
 
 .light-mode {
   --color-primary: #FFFFFF;
-  --color-secondary: #F56692;
+  --color-secondary: #f0f800;
   --color-white: #454e56;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -209,7 +209,7 @@ section {
 .about-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  padding-top: 3.5rem;
+  padding-top: 4.5rem;
   padding-bottom: 5rem;
 }
 .about-container .right-about {
@@ -397,7 +397,7 @@ section {
 }
 
 .port-text {
-  padding: 2rem 0;
+  padding: 5rem 0;
   text-align: center;
 }
 
